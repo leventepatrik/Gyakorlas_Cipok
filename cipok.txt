@@ -1,0 +1,4 @@
+név,mért
+Nike,42
+Adidas,41
+Adidas,45
